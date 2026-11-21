@@ -2,4 +2,4 @@
 
 Online Shopping Team Project for Software Engineering Experiment 15.
 
-Modules: Pending
+Modules: Catalog
