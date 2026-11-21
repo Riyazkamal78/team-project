@@ -35,4 +35,4 @@ to the open cart pull request.
 
 Online Shopping Team Project for Software Engineering Experiment 15.
 
-Modules: Catalog
+Modules: Login, Catalog, Cart
